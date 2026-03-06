@@ -14,22 +14,35 @@ This project transforms raw sales data into actionable business insights:
 ## Files in This Repository
 - `Coffee Business Analysis.xlsx` → Full working Excel file (download and open to interact)
 - `screenshots/` → Images showing raw data, cleaning steps, and final dashboard
-- ## Download the Project
-[![Download Excel Dashboard](https://img.shields.io/badge/Download%20Excel%20File-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://raw.githubusercontent.com/yourusername/Coffee-Sales-Dashboard-Excel-Portfolio/main/Coffee_Sales_Dashboard.xlsx?raw=true)
-- 
+
+## Download Files
+
+**My complete project (cleaned + analysis + dashboard)**  
+[![Download My Project File](https://img.shields.io/badge/Download%20My%20Project-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/rakibulrifaat/Excel-Sales-Analysis-n-Dashboard/raw/refs/heads/main/Excel%20Analysis%20Project/Coffee%20Business%20Analysis.xlsx?raw=true)
+
+**Original raw data (data used for analysis)**  
+[![Download Original Raw Data](https://img.shields.io/badge/Download%20Raw%20Data-27AE60?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://raw.githubusercontent.com/mochen862/excel-project-coffee-sales/main/coffeeOrdersData.xlsx?raw=true)
+
 ## Screenshots
+(Click images to enlarge if needed)
+### Raw Data
+![Raw Data](Excel%20Analysis%20Project/Raw%20Data%20SS.png)
+
+### Cleaned Data
+![Cleaned Data & Formulas](Excel%20Analysis%20Project/Cleaned%20Data%20n%20Analysis%20SS.png)
+
+### Data Showing Formulas
+![Formulas View](Excel%20Analysis%20Project/Showing%20lookup%20Formulas%20SS.png)
+
+### Pivot Table Setup
+![Pivot Tables](Excel%20Analysis%20Project/Pivot%20Table%20SS.png)
 
 ### Final Dashboard
-![Final Dashboard](screenshots/3_final_dashboard.png)
+![Final Dashboard](Excel%20Analysis%20Project/Coffee%20business%20Dashboard%20SS.png)
 
-### Dashboard with Filters
-![Filtered View](screenshots/5_dashboard_filtered.png)
+### Dashboard with Timeline & Slicers in Use
+![Interactive Dashboard](Excel%20Analysis%20Project/Dashboard%20with%20Timeline%2C%20Slicer%20in%20use%20SS.png)
 
-### Raw Data
-![Raw Data](screenshots/1_raw_data.png)
-
-### Cleaned Data with Formulas
-![Cleaned Data](screenshots/2_cleaned_with_formulas.png)
 ## How to Use
 1. Download `Coffee Business Analysis.xlsx`
 2. Open in Microsoft Excel (desktop version recommended for full interactivity)

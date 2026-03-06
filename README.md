@@ -14,6 +14,9 @@ This project transforms raw sales data into actionable business insights:
 ## Files in This Repository
 - `Coffee Business Analysis.xlsx` → Full working Excel file (download and open to interact)
 - `screenshots/` → Images showing raw data, cleaning steps, and final dashboard
+- ## Download the Project
+[![Download Excel Dashboard](https://img.shields.io/badge/Download%20Excel%20File-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://raw.githubusercontent.com/yourusername/Coffee-Sales-Dashboard-Excel-Portfolio/main/Coffee_Sales_Dashboard.xlsx?raw=true)
+- 
 ## Screenshots
 
 ### Final Dashboard
